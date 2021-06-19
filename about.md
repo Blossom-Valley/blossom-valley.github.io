@@ -3,4 +3,4 @@ title: About Us
 feature_image: "/assets/images/bvff-crisps-package.jpg"
 ---
 
-Family run and operated, Blossom Valley Fruit Farms sells apple bundels, homemade apple crisp snacks, and hand made crafts.
+Blossom Valley Fruit Farm is a family-owned orchard nestled on 22 acres in beautiful Northwest Michigan. We take pride in using organic and sustainable methods to produce fruit we share with our customers and community. 

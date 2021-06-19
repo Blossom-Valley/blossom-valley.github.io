@@ -1,8 +1,6 @@
 ---
-title: Welcome to my website
-feature_image: "https://picsum.photos/1300/400?image=989"
-feature_text: |
-  ## Hello world
+title: Welcome to Blossom Valley Fruit Farm!
+feature_image: "/assets/images/stock-apple-trees.jpeg"
 ---
 
-There isn't much going on here yet, but watch this space
+We're working on this website: stay tuned!

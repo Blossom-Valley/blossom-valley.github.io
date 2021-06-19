@@ -1,5 +1,6 @@
 ---
-title: About this website
+title: About Us
+feature_image: "/assets/images/bvff-crisps-package.jpg"
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+Family run and operated, Blossom Valley Fruit Farms sells apple bundels, homemade apple crisp snacks, and hand made crafts.

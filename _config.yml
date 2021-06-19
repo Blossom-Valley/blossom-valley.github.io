@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Blossom Valley Fruit Farm'
 description: 'A family owned and operated farm based out of Michigan.'
 permalink: pretty
-logo: "/assets/images/bvff-single-apple.jpg"
+logo: "BVFF_logo_vector.afdesign"
 
 # Pagination
 paginate: 5

@@ -7,3 +7,22 @@ This is a very simple starting point if you wish to use Alembic [as a Jekyll the
 or
 
 **[Download the GitHub Pages kit](https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip)**
+
+# Steps to development
+1. Click source control on left hand bar 
+1. Click "stage all changes": the plus sign
+1. Click "commit": the checkmark
+1. Type commit message, then press enter
+1. Click "push" button to deploy to github
+
+# How to run locally
+1. Open iterm (cmd + space: iterm)
+1. Run the command `cd ~/Documents/Blossom\ Valley/blossom-valley.github.io/`
+1. Run the command `bundle exec jekyll serve`: this starts the local webserver and can run in the background
+1. Open chrome and enter [http://localhost:4000](http://localhost:4000)
+1. To close, press "control + c" in iterm
+
+## To See Changes
+1. Edit files in VS
+1. Save files
+1. Refresh chrome (cmd + r)
